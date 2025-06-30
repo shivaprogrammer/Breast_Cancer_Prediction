@@ -28,7 +28,7 @@ This project focuses on early and accurate **detection of breast cancer** using 
 - **Source:** UCI Breast Cancer Wisconsin Diagnostic Dataset  
 - **Features:** Radius, Texture, Perimeter, Area, Smoothness, Compactness, Concavity, Concave Points, Symmetry, Fractal Dimension  
 - **Target Variable:** `diagnosis` (0 = benign, 1 = malignant)  
-- **Link:** [Dataset Access (Google Drive)](https://drive.google.com/file/d/1EkbS5vnjvFeoYWzz33EWDscxNojy3WJt/view)
+
 
 ---
 
